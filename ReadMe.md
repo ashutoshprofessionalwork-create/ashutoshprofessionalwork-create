@@ -1,10 +1,10 @@
 # 💫 About Me :
-🔭 I’m currently working on : https://github.com/ashutoshprofessionalwork-create/2D-DUNGEON-GAME
-👯 I’m looking to collaborate on :
-🤝 I’m looking for help with 
-🌱 I’m currently learning web dev and django
-💬 Ask me about 
-⚡ Fun fact
+🔭 I’m currently working on : https://github.com/ashutoshprofessionalwork-create/2D-DUNGEON-GAME <br>
+👯 I’m looking to collaborate on :<br>
+🤝 I’m looking for help with <br>
+🌱 I’m currently learning web dev and django<br>
+💬 Ask me about <br>
+⚡ Fun fact<br>
 
 
 # 💻 Tech Stack:
